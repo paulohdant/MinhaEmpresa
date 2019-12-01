@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Magazine Luiza</string>
+    <string name="buttonSite">SITE</string>
+    <string name="buttonCompartilhar">COMPARTILHE</string>
+    <string name="buttonLigar">LIGAR</string>
+    <string name="buttonLocal">Localização</string>
+    <string name="back">VOLTAR</string>
+    <string name="ligando">(84) 3417-7200</string>
+    <string name="website">https://www.magazineluiza.com.br</string>
+    <string name="textEmail">www.magazineluiza.com.br/formulariocontato</string>
+    <string name="nada">Magazine Luiza</string>
+    <string name="menu_sair">SAIR</string>
+    <string name="menu_sobre">SOBRE</string>
+    <string name="descricao">A Magazine Luiza é um empresa composta por uma rede de lojas físicas e vendas online.
+        Seus produtos vão desde eletrônicos a eletrodómesticos, movéis a equipamentos automotivos.
+    </string>
+    <string name="textRua">Av. Cel. Martiniano, 867 - Centro, Caicó - RN, 59300-000
+        CNPJ: 47960950/0967-22 | Insc. Estadual: 204370469
+    </string>
+    <string name="tempo_splash">1000</string>
+    <string name="buttonSobre">SOBRE</string>
+    <string name="descricaoSobre">Aplicativo desenvolvido por Paulo Henrique de Azevedo Dantas, aluno de Sistemas de Informação,
+        para a disciplina de Programação para Dispositivos Móveis, sob orientação do professor Alexandre Melo Queiroga.
+    </string>
+    <string name="descricaoApp">O objetivo é escolher uma empresa e trazer informações dela. O app trabalha os comportamentos das activities,
+        ciclo de vida, tela splash entre outros conteúdos.
+
+        As funcionalidades são abrir o site da empresa, localização, número de contato e compartilhar aplicativo.
+    </string>
+    <string name="esp"> </string>
+    <string name="barraSubtitulo">Vem ser Feliz! </string>
+    <string name="barraTitulo">Maior loja de vendas online! </string>
+</resources>

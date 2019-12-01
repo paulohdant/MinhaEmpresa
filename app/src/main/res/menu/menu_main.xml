@@ -1,0 +1,35 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/buttonMenuSite"
+        android:orderInCategory="100"
+        android:title="@string/buttonSite"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/buttonMenuLigar"
+        android:orderInCategory="100"
+        android:title="@string/buttonLigar"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/buttonMenuLocal"
+        android:orderInCategory="100"
+        android:icon="@drawable/local"
+        android:title="@string/esp"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/buttonMenuCompartilhar"
+        android:orderInCategory="100"
+        android:title="@string/buttonCompartilhar"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/buttonMenuSobre"
+        android:orderInCategory="100"
+        android:title="@string/buttonSobre"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/buttonMenuVoltar"
+        android:orderInCategory="100"
+        android:title="@string/menu_sair"
+        app:showAsAction="never" />
+</menu>
